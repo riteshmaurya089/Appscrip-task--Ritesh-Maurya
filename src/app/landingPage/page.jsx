@@ -845,6 +845,6 @@ export default function WebPLPWithFilterPage() {
 
       {/* footer section */}
       <Footer className="flex items-end justify-center self-stretch bg-black-900 p-6 sm:p-5" />
-    </div>
-  );
-}
+      </div>
+      );
+      }
